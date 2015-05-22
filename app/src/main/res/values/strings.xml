@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">六叶草</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="clean_auth">清除授权</string>
+    <string name="auth_success">授权成功</string>
+    <string name="auth_cancel">授权取消</string>
+    <string name="auch_failed">授权失败 code:</string>
+    <string name="auth_tip">授权提示</string>
+    <string name="auth_message">您还未授权或授权过期,是否重新授权?</string>
+    <string name="accept">傲娇接受</string>
+    <string name="deny">残忍拒绝</string>
+    <string name="drawer_open">侧边栏打开</string>
+    <string name="drawer_close">侧边栏关闭</string>
+</resources>

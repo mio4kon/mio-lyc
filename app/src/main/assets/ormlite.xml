@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ormlite>
+    <!-- 数据库名称-->
+    <dbname>lyc.db</dbname>
+    <!-- 数据库版本-->
+    <version>1</version>
+    <!-- 数据库表合集-->
+    <tables>
+        <!-- 表对应的bean的全称-->
+        <table>mio.kon.lyc.model.UserInfo</table>
+    </tables>
+</ormlite>

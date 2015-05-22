@@ -1,0 +1,29 @@
+<resources>
+
+    <!--  application theme. -->
+    <style name="LycTheme" parent="LycTheme.Base"></style>
+
+    <style name="LycTheme.Base" parent="LycTheme.Base.DIY">
+        <item name="android:windowNoTitle">true</item>
+        <item name="colorPrimary">@color/theme_default_primary</item>
+        <item name="colorPrimaryDark">@color/theme_default_primary_dark</item>
+        <item name="color">@color/white</item>
+        <item name="android:textColorPrimary">@color/black</item>
+        <item name="colorAccent">#f4fa96</item>
+
+    </style>
+
+    <style name="LycTheme.Base.DIY" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="CardBackground">@color/white</item>
+    </style>
+
+
+
+
+    <!-- 微博信息文本字体大小-->
+    <style name="message_font_size">
+        <item name="android:textSize">16dp</item>
+    </style>
+
+
+</resources>
